@@ -1,0 +1,3 @@
+Total Distance: 390.6497684264309
+Route: 14,1,11,6,10,13,0,5,12,8,3,7,2,9,4
+![TSP Route](output/route_plot.png)
